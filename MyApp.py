@@ -10,4 +10,4 @@ with col1:
 with col2:
   st.subheader("Joker and Batman")
   st.image("./HD-wallpaper-batman-joker-film-knight.jpg", caption="Ragdoll Cat", width=300,use_column_width=True)
-  st.write("Legenndary Batman")
+  st.write("Legendary Batman")
